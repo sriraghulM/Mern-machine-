@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": "b4de6afd-920e-466a-abb7-122eca8361e7",
+      "name": "hukum",
+      "email": "hcgupta@cstech.in",
+      "phoneNumber": "3456789123",
+      "Designation": "HR",
+      "gender": "Male",
+      "Course": "MCA",
+      "Create-date": "13-feb-21",
+      "password": "$2a$10$BCCHBon9TQiM/FCsho7xXe9myPGPIZKnoewogEm871IgEjh7cEue."
+    },
+    {
+      "id": "b4de6afd-920e-466a-abb7-122eca8361e7",
+      "name": "hukum",
+      "email": "hcgupta@cstech.in",
+      "phoneNumber": "3456789123",
+      "Designation": "HR",
+      "gender": "Male",
+      "Course": "MCA",
+      "Create-date": "13-feb-21",
+      "password": "$2a$10$BCCHBon9TQiM/FCsho7xXe9myPGPIZKnoewogEm871IgEjh7cEue."
+    },
+    {
+      "id": "9ca76580-fa8c-4352-a55a-fb7189e32fce",
+      "name": "Sriraghul",
+      "email": "sriraghul0777@gmail.com",
+      "mobile": "7358891302",
+      "designation": "Manager",
+      "gender": "M",
+      "courses": [
+        "MCA",
+        "BCA"
+      ]
+    },
+    {
+      "id": "0c59d05c-e648-4017-821f-b71677e267bb",
+      "name": "Sriraghul",
+      "email": "raghulm077@gmail.com",
+      "mobile": "7358891302",
+      "designation": "Manager",
+      "gender": "M",
+      "courses": [
+        "BCA"
+      ]
+    },
+    {
+      "id": "728524eb-c3f0-4cfe-b06d-8b9e41ea038f",
+      "name": "Sriraghul",
+      "email": "raghulm@gmail.com",
+      "mobile": "7358891302",
+      "designation": "HR",
+      "gender": "M",
+      "courses": [
+        "MCA",
+        "BCA"
+      ]
+    },
+    {
+      "id": "ecbca889-db9d-451d-b086-420b48f8cc18",
+      "name": "madhu ",
+      "email": "madhu122@gmail.com",
+      "mobile": "7358891302",
+      "designation": "HR",
+      "gender": "M",
+      "courses": [
+        "MCA",
+        "BCA"
+      ]
+    },
+    {
+      "id": "db48a242-92b9-4f8c-aa1d-c89d2a121972",
+      "name": "daniel",
+      "email": "daniel123@gmail.com",
+      "mobile": "7358891301",
+      "designation": "Manager",
+      "gender": "M",
+      "courses": [
+        "MCA",
+        "BCA"
+      ]
+    },
+    {
+      "id": "ba1ad319-b61e-4d47-8c37-574bc0755a81",
+      "name": "danny",
+      "email": "danny123@gmail.com",
+      "mobile": "7358891302",
+      "designation": "Manager",
+      "gender": "M",
+      "courses": [
+        "MCA",
+        "BCA"
+      ]
+    },
+    {
+      "id": "d3446e8e-d973-453d-a308-c22c49b0e009",
+      "name": "Barath",
+      "email": "barath123@gmail.com",
+      "mobile": "7358891302",
+      "designation": "Manager",
+      "gender": "M",
+      "courses": [
+        "MCA",
+        "BCA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f1f1f1;
+    
+  }
+  
+  .formsContainer {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .signUpForm {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+  }
+  
+  .title {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .inputField {
+    margin-bottom: 20px;
+    text-align: left;
+    background-color: #cda0a0;
+    padding: 20px;
+    
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .radioInput,
+  .checkboxInput {
+    margin-right: 5px;
+    margin-left: 10px;
+  }
+  
+  .submitButton {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
